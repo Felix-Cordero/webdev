@@ -146,6 +146,10 @@ hr {
           transition: all 0.6s ease-in;
 }
 
+.f-center-padding {
+  padding-left: 80px;
+}
+
 .f-text-align {
   text-align: center;
 }
