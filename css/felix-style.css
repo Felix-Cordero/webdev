@@ -146,6 +146,12 @@ hr {
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
 }
+
+.f-p-text-align {
+  text-align: justify;
+  margin: 0px -15px 0px -15px;
+}
+
 .work-wrapper:hover { border-color: #eb5424; }
 .work-wrapper .fa {
   color: #888888;
